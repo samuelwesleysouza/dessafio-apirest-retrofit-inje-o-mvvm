@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retrofit-2</string>
+    <string name="nome">Nome</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+
+</resources>
